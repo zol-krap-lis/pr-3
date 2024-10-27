@@ -1,6 +1,7 @@
 ## Практика #3 Золотов А.А. Лисин С.В. Крапивин Я.С. (БСМО-11-24) 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zol-krap-lis/pr-3/blob/main/pr3.ipynb)
+
 # Модель сегрегации Шеллинга
 
 Этот проект реализует модель сегрегации Шеллинга с визуализацией процесса на каждом шаге. Код может быть запущен как локально в Python, так и в Google Colab.
